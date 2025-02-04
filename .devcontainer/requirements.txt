@@ -1,0 +1,4 @@
+ipykernel
+ipywidgets
+torch
+transformers
