@@ -1,3 +1,3 @@
 # WK05
 
-HuggingFace Pipelines and Transformer Models
+HuggingFace Pipelines for Transformer Models
